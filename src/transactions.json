@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "amount": 300,
+    "category": {
+      "name": "salary",
+      "type": "income"
+    },
+    "description": "first salary",
+    "created_at": "2023-05-26"
+  },
+  {
+    "id": 2,
+    "amount": 25,
+    "category": {
+      "name": "personal care",
+      "type": "expense"
+    },
+    "description": "vip fitness month membership",
+    "created_at": "2023-05-26"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "salary",
+    "type": "income",
+    "can_be_deleted": true
+  },
+  {
+    "id": 2,
+    "name": "personal care",
+    "type": "expense"
+  },
+  {
+    "id": 3,
+    "name": "food",
+    "type": "expense",
+    "can_be_deleted": true
+  },
+  {
+    "id": 4,
+    "name": "gifts",
+    "type": "income"
+  }
+]
